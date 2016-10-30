@@ -1,0 +1,3 @@
+//home/ubuntu/ipynb/Dealing-with-Data-Spring2016.ipynb/2-Introduction_to_Python/I-In_Class_Exercise-Copy1.ipynb
+
+shutil.copy('//home/ubuntu/ipynb/Homeworks/I-In_Class_Exercise-Copy1.ipynb' , '//home/ubuntu/ipynb/Homeworks')

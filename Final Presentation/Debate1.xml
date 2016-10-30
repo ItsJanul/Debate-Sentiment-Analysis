@@ -1,0 +1,148 @@
+candidate,keyword,relevance,sentiment
+Cruz,cruz,0.986482,neutral
+Cruz,Donald,0.81643,positive
+Cruz,u'CRUZ,0.696681,neutral
+Cruz,"Hillary Clinton",0.662473,negative
+Cruz,"health care",0.639101,positive
+Cruz,Wolf,0.594068,positive
+Cruz,"Harry Reid",0.588322,negative
+Cruz,"Republican nominee",0.587555,negative
+Cruz,"religious liberty",0.586366,negative
+Cruz,"Supreme Court",0.58467,positive
+Cruz,"open border politicians",0.584506,neutral
+Cruz,Washington,0.584084,negative
+Cruz,"illegal immigration",0.582101,negative
+Cruz,"radical leftist majority",0.578202,negative
+Cruz,"Justice Scalia",0.577018,positive
+Cruz,"George W. Bush",0.576606,neutral
+Cruz,"Planned Parenthood",0.575018,positive
+Cruz,"debate stage",0.574281,positive
+Cruz,"socialized health care",0.574209,neutral
+Cruz,"Supreme Court justice",0.57402,neutral
+Cruz,"Washington deal makers",0.569136,neutral
+Cruz,"liberal Democratic politicians",0.567172,neutral
+Cruz,"Washington deals",0.562682,negative
+Cruz,liar,0.558308,negative
+Cruz,"Washington bosses.",0.550359,negative
+Cruz,"U.S. citizens",0.548363,neutral
+Cruz,people,0.548171,negative
+Cruz,"hardworking men",0.547709,negative
+Cruz,"legal immigrants",0.547236,negative
+Cruz,"Washington politicians",0.546635,negative
+Cruz,"open borders.",0.546566,negative
+Cruz,"illegal immigrants",0.546408,negative
+Cruz,"Nancy Pelosi",0.546196,negative
+Cruz,"unconstitutional program",0.54508,negative
+Cruz,"nation provides.",0.544648,positive
+Cruz,"Senator Rubio",0.544502,negative
+Cruz,"exact same point",0.544017,neutral
+Cruz,"incredible opportunity",0.543812,positive
+Cruz,"long history",0.543416,negative
+Cruz,"hispanic community",0.543352,neutral
+Cruz,"American dream.",0.543079,neutral
+Cruz,"John Roberts",0.542694,neutral
+Cruz,"criminal violations",0.542657,negative
+Cruz,"enormous gravity",0.542643,positive
+Cruz,"sharp disagreements",0.542406,negative
+Cruz,"Cuban immigrants",0.542317,positive
+Cruz,"tax returns",0.541258,neutral
+Cruz,"extra time",0.540899,neutral
+Cruz,"liberal justice",0.540733,negative
+Trump,trump,0.970183,positive
+Trump,u'TRUMP,0.786446,negative
+Trump,"Mr. Trump",0.683914,positive
+Trump,people,0.638507,negative
+Trump,"insurance companies",0.613949,negative
+Trump,"financial disclosure form",0.580851,neutral
+Trump,way,0.556125,positive
+Trump,"Justice Roberts",0.555144,positive
+Trump,"biggest problem",0.555027,negative
+Trump,"different plans",0.553569,neutral
+Trump,"terrible campaign",0.547189,negative
+Trump,"Mitt Romney",0.546671,negative
+Trump,"Sheriff Joe Arpaio",0.545043,neutral
+Trump,"Chris Christie",0.542776,negative
+Trump,"Robin Hood",0.541473,negative
+Trump,"cute sound bite",0.541144,positive
+Trump,"socialized medicine",0.540022,negative
+Trump,"new people",0.539948,positive
+Trump,"Republican Party",0.539823,positive
+Trump,"Supreme Court",0.53981,positive
+Trump,"big bad banks.",0.539566,negative
+Trump,"pre-existing conditions",0.538935,negative
+Trump,"Justice Samuel Alito",0.538919,positive
+Trump,"Ronald Reagan",0.538875,positive
+Trump,"highest taxes",0.537945,neutral
+Trump,"new Republican Party",0.537921,positive
+Trump,"pre- existing conditions",0.537618,negative
+Trump,president,0.537195,negative
+Trump,"somewhat liberal Democrat",0.537101,neutral
+Trump,"long time ago.",0.535525,neutral
+Trump,"horrible omnibus budget",0.535012,negative
+Trump,"great president",0.534948,positive
+Trump,"Ben Carson",0.534681,neutral
+Trump,"Dr. Ben Carson",0.533782,neutral
+Trump,anybody,0.531106,negative
+Trump,"incredible people",0.529076,positive
+Trump,Israel,0.527762,positive
+Trump,thousands,0.526059,negative
+Trump,tens,0.525501,negative
+Trump,lines,0.525456,negative
+Trump,"terrible candidate",0.525385,negative
+Trump,"credit cards",0.525025,negative
+Trump,competition,0.524892,negative
+Trump,percent,0.524554,negative
+Trump,politicians,0.524345,positive
+Trump,thing,0.524314,positive
+Trump,"Dwight Eisenhower",0.524216,negative
+Trump,"different world",0.523598,positive
+Trump,"record-setting numbers",0.523441,neutral
+Trump,"toughest man",0.523402,neutral
+Rubio,rubio,0.979947,neutral
+Rubio,u'RUBIO,0.781914,neutral
+Rubio,"Senator Rubio",0.655796,neutral
+Rubio,people,0.635311,positive
+Rubio,"United States",0.59724,positive
+Rubio,"Donald Trump",0.596879,negative
+Rubio,"Polish workers",0.59217,negative
+Rubio,"executive order",0.590513,negative
+Rubio,plan,0.588899,negative
+Rubio,"real estate deal",0.58883,negative
+Rubio,"Trump Polish workers",0.574589,neutral
+Rubio,America,0.572046,negative
+Rubio,"Trump University",0.571981,negative
+Rubio,"immigration plan amnesty",0.571767,neutral
+Rubio,"immigrants legal status",0.565894,positive
+Rubio,fact,0.561383,negative
+Rubio,"illegal immigrant labor",0.55893,negative
+Rubio,"new people",0.557029,negative
+Rubio,"bailout fund",0.556161,negative
+Rubio,"increasingly Hillary Clinton.",0.555904,negative
+Rubio,"individual mandate portion",0.555875,neutral
+Rubio,"big government stance",0.553219,neutral
+Rubio,"San Bernardino killer",0.551355,negative
+Rubio,"real estate deal.",0.55108,neutral
+Rubio,"Trump Towers",0.546244,neutral
+Rubio,"American people",0.545274,positive
+Rubio,"Mr. Trump",0.543317,positive
+Rubio,thing,0.539047,positive
+Rubio,"2ist century",0.536763,neutral
+Rubio,"self- deportation",0.536669,negative
+Rubio,"background check",0.536614,positive
+Rubio,"entry-exit tracking",0.536393,neutral
+Rubio,"Mitt Romney",0.536055,positive
+Rubio,"Visa overstays",0.535307,neutral
+Rubio,"healthcare plan",0.534903,positive
+Rubio,"sound bite",0.533887,negative
+Rubio,"Libyan people",0.53383,negative
+Rubio,"Senator Cruz",0.533755,neutral
+Rubio,"physical border",0.53336,negative
+Rubio,"President Obama",0.532417,neutral
+Rubio,"fake school",0.532345,negative
+Rubio,"cardboard cutout",0.532338,negative
+Rubio,"fake university",0.532277,negative
+Rubio,"free enterprise",0.532246,neutral
+Rubio,"new enrollees",0.532184,negative
+Rubio,"new applicants",0.531995,neutral
+Rubio,"illegal workers",0.53198,negative
+Rubio,point,0.531741,negative

@@ -1,0 +1,37 @@
+load data local infile '/home/ubuntu/data/311_2014_SUBSET.CSV' 
+into table 311calls
+fields terminated by ',' enclosed by '"'         
+lines terminated by '\n'
+ignore 1 rows;
+
+load data local infile '/home/ubuntu/data/restaurant.csv' 
+into table restaurants
+fields terminated by ',' enclosed by '"'         
+lines terminated by '\n'
+ignore 1 rows;
+
+create table results SELECT 311calls.Incident_Zip, 311calls.Complaint_Type, count(311calls.Complaint_Type) 
+
+FROM 311calls
+group by 311calls.Incident_Zip;
+
+
+Select *, count(restaurants.VIOLATION_CODE) 
+FROM restaurants 
+JOIN results on restaurants.ZIPCODE = results.Incident_Zip;
+
+CREATE TABLE results SELECT 311calls.Incident_Zip, 311calls.Complaint_Type, 
+COUNT(311calls.Complaint_Type) AS NumberOf311Complaints, restaurants.ZIPCODE, COUNT(restaurants.VIOLATION_CODE) AS NumberofViolations
+FROM 311calls
+, restaurants
+LEFT JOIN zipcode ON 311calls.Incident_Zip=restaurants.ZIPCODE
+GROUP BY zipcode;
+
+CREATE TABLE results SELECT  restaurants.ZIPCODE, COUNT(restaurants.VIOLATION_CODE) AS NumberofViolations
+FROM restaurants;
+
+SELECT 311calls.Incident_Zip, 311calls.Complaint_Type, 
+COUNT(311calls.Complaint_Type) AS NumberOf311Complaints
+FROM 311calls
+LEFT JOIN zipcode ON 311calls.Incident_Zip=restaurants.ZIPCODE
+GROUP BY ZIPCODE;

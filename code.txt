@@ -1,0 +1,48 @@
+def openFile(url):
+    #opening files
+    fileO = BeautifulSoup(urllib.urlopen(url).read(),"lxml")
+    return fileO
+
+def cleanFile(file1):
+    #function extracts text lines from html
+    textLines = []
+
+    paragraph = file1.find_all("p")
+    for lines in paragraph:
+        textLines.append(lines.get_text())
+        
+    return textLines
+
+def lines2words(file1):
+    #function takes a list of strings and returns it as a string of words
+    return_string = ''
+    
+    for line in file1:
+        return_string += line
+
+    words = return_string.split()
+    
+    return words
+    
+
+def getCandidate(candidate,file2):
+    #function gets cadidate lines
+    i = 0
+    candidateLines = []
+    
+    for line in file2:
+        if candidate in line:
+            candidateLines.append(line)
+            i += 1
+        elif candidate in file2[i] :
+            candidateLines.append(line)
+            i += 1
+        else:
+            i += 1
+            
+    return candidateLines
+
+
+word_counts = collections.Counter(lines2words(bernieFile))
+for word, count in word_counts.most_common():
+    print word, count

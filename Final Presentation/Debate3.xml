@@ -1,0 +1,149 @@
+candidate,keyword,relevance,sentiment
+Rubio,RUBIO,0.94022,neutral
+Rubio,"United States",0.821581,positive
+Rubio,"Social Security",0.813403,negative
+Rubio,"best intelligence agencies",0.803385,negative
+Rubio,u'RUBIO,0.748119,neutral
+Rubio,"new American century.",0.717591,positive
+Rubio,"free trade deals",0.716156,positive
+Rubio,people,0.711356,positive
+Rubio,"kill innocent people",0.705335,positive
+Rubio,"Sunni Arab movement",0.700891,neutral
+Rubio,way,0.698546,positive
+Rubio,"Palestinian Authority",0.697255,negative
+Rubio,"law enforcement officers",0.69486,negative
+Rubio,"Clean Power Act",0.694573,negative
+Rubio,"Palestinian Authority president",0.692746,positive
+Rubio,"important election",0.673631,positive
+Rubio,things,0.670783,negative
+Rubio,"prosperous Americans",0.663168,positive
+Rubio,"encouraged people",0.662978,positive
+Rubio,"21st century",0.662961,positive
+Rubio,"exceptional nation",0.662504,positive
+Rubio,world,0.662497,negative
+Rubio,"family connection",0.662275,neutral
+Rubio,"right choice",0.661752,positive
+Rubio,"green cards",0.660457,neutral
+Rubio,"American workers",0.659192,negative
+Rubio,"religious background",0.659123,negative
+Rubio,"tough place",0.658256,positive
+Rubio,"future generations",0.657307,neutral
+Rubio,"Sunni faith",0.656602,neutral
+Rubio,"major problem",0.65592,negative
+Rubio,"specific purpose",0.655227,negative
+Rubio,"Jewish state",0.655205,negative
+Rubio,"retirement age",0.655117,neutral
+Rubio,"special country.",0.654478,positive
+Rubio,"tax burdens",0.65434,negative
+Rubio,changes,0.654267,negative
+Rubio,"Sea level",0.65424,negative
+Rubio,"policy maker",0.653429,positive
+Rubio,"federal bureaucracy,that",0.653399,negative
+Rubio,"significant percentage",0.653123,positive
+Rubio,"different reasons.",0.652991,negative
+Rubio,"gift list",0.652692,neutral
+Rubio,"Castro regime",0.652668,negative
+Rubio,"delegate math",0.652547,neutral
+Rubio,"V.A. my brother",0.652447,negative
+Rubio,"extraordinary couple",0.652402,positive
+Rubio,"launching pad",0.652052,negative
+Rubio,"better life",0.651397,neutral
+Trump,trump,0.952017,positive
+Trump,people,0.695636,positive
+Trump,deal,0.690965,negative
+Trump,"good deal",0.676704,negative
+Trump,"Mr. Trump",0.669953,neutral
+Trump,"Donald Trump",0.659087,positive
+Trump,way,0.643301,positive
+Trump,"United States",0.627413,positive
+Trump,"super PACs",0.614878,positive
+Trump,country,0.614751,positive
+Trump,"worst single deal",0.60971,negative
+Trump,"biggest political events",0.598213,positive
+Trump,"Social Security",0.593349,negative
+Trump,"tremendous hate",0.593235,negative
+Trump,"charter schools",0.591733,negative
+Trump,"deficit right now.",0.59073,negative
+Trump,"free trade",0.59039,positive
+Trump,"World Trade Center",0.587463,neutral
+Trump,"Sheriff Joe",0.585891,negative
+Trump,"Sheriff Joe Arpaio",0.585792,negative
+Trump,u'TRUMP,0.585355,positive
+Trump,"radical Islamic terrorism",0.582392,negative
+Trump,"world deal",0.581427,positive
+Trump,"large portions",0.581288,negative
+Trump,"worst deal",0.580774,negative
+Trump,"toughest deal",0.5796,positive
+Trump,"entire primary season",0.578331,negative
+Trump,"better deal",0.57778,positive
+Trump,"great deal",0.577518,positive
+Trump,"strong leader",0.576404,positive
+Trump,"Iran deal",0.574266,negative
+Trump,things,0.574222,negative
+Trump,"bad deal",0.573691,neutral
+Trump,"right people",0.558794,negative
+Trump,"local education",0.556283,neutral
+Trump,"tremendous hatred",0.555017,negative
+Trump,"voters trust",0.554833,neutral
+Trump,"Republican Party",0.554591,positive
+Trump,"great handle",0.553795,positive
+Trump,"tremendous love",0.553305,positive
+Trump,"competitive schools",0.552827,negative
+Trump,"federal government",0.552773,negative
+Trump,"monetary devaluations",0.551987,positive
+Trump,"good way",0.551753,negative
+Trump,"great manufacturers",0.550977,positive
+Trump,"drug store",0.550533,neutral
+Trump,"different things",0.550379,positive
+Trump,"page story",0.550122,neutral
+Trump,"Jeff Sessions",0.549892,neutral
+Cruz,CRUZ,0.993001,neutral
+Cruz,"international trade",0.702352,negative
+Cruz,"Hillary Clinton",0.676902,negative
+Cruz,"common core",0.674758,negative
+Cruz,people,0.611803,negative
+Cruz,"low skilled workers",0.608068,negative
+Cruz,"President Obama",0.599595,negative
+Cruz,"Social Security",0.593861,negative
+Cruz,u'CRUZ,0.593461,neutral
+Cruz,"younger workers",0.585868,negative
+Cruz,Donald,0.583532,negative
+Cruz,"Obama foreign policy",0.581361,negative
+Cruz,"national security interests",0.580427,neutral
+Cruz,"overwhelming air power",0.580159,negative
+Cruz,"Republican primary voters",0.575007,positive
+Cruz,"John Kerry",0.574295,negative
+Cruz,"George W. Bush",0.57383,negative
+Cruz,"Iranian nuclear deal",0.573558,neutral
+Cruz,"liberal Democratic country",0.573394,positive
+Cruz,"radical Islam terrorist",0.565505,negative
+Cruz,Washington,0.56527,negative
+Cruz,"freest land",0.524495,neutral
+Cruz,"different agreements",0.522381,neutral
+Cruz,"free trade",0.521366,positive
+Cruz,"Key West",0.520788,negative
+Cruz,"American workers",0.519533,negative
+Cruz,"foreign markets",0.51914,positive
+Cruz,"ferry boat",0.51706,negative
+Cruz,"legal immigration",0.516125,neutral
+Cruz,"fewer bureaucrats",0.515948,negative
+Cruz,"Obama administration",0.51448,negative
+Cruz,"American economy",0.51323,neutral
+Cruz,"smarter people",0.512346,negative
+Cruz,"Washington establishment",0.51104,neutral
+Cruz,"real leader",0.510708,negative
+Cruz,"hard-working Americans",0.50986,neutral
+Cruz,"race-to-the-top funds",0.50973,neutral
+Cruz,"major agencies",0.509322,negative
+Cruz,"common core.",0.509257,neutral
+Cruz,"real solutions",0.508799,positive
+Cruz,"magic wand",0.508508,negative
+Cruz,"personal accounts",0.508031,neutral
+Cruz,"executive power",0.507976,negative
+Cruz,"Washington cartel",0.50787,negative
+Cruz,"lobbyists attack",0.506797,negative
+Cruz,"political courage",0.506174,positive
+Cruz,"American people",0.506095,neutral
+Cruz,"instead leadership",0.505586,neutral
+Cruz,"political candidates",0.504794,negative
+Cruz,"corporate welfare.",0.504458,negative

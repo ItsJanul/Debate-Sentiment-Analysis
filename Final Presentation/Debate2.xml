@@ -1,0 +1,147 @@
+candidate,keyword,relevance,sentiment
+Rubio,RUBIO,0.994538,neutral
+Rubio,u'RUBIO,0.720804,negative
+Rubio,people,0.632102,positive
+Rubio,"Donald Trump",0.63151,negative
+Rubio,"New York Times",0.626409,negative
+Rubio,"Donald Trump clothing",0.601806,neutral
+Rubio,"foreign policy",0.592762,negative
+Rubio,"Trump Steaks",0.585881,negative
+Rubio,money,0.583,negative
+Rubio,"conservative movement",0.580619,negative
+Rubio,"Hillary Clinton.",0.575538,negative
+Rubio,"national poll",0.569484,neutral
+Rubio,"Buffalo Wild Wing",0.564641,neutral
+Rubio,"Better Business Bureau",0.563969,positive
+Rubio,issue,0.563167,negative
+Rubio,"unusual election cycle",0.559556,neutral
+Rubio,"Trump Vodka",0.559423,positive
+Rubio,"gun laws",0.558678,negative
+Rubio,"socialist country",0.558324,negative
+Rubio,"Mr. Trump",0.55507,positive
+Rubio,"Trump University",0.553283,neutral
+Rubio,"John Kasich",0.543918,positive
+Rubio,"health care",0.543146,positive
+Rubio,"personal attacks",0.542023,negative
+Rubio,"important issues",0.541828,positive
+Rubio,"best people",0.5415,negative
+Rubio,"Planned Parenthood",0.540755,negative
+Rubio,"rock band",0.540504,neutral
+Rubio,way,0.540103,negative
+Rubio,"major issue",0.539975,neutral
+Rubio,"center issue",0.539953,neutral
+Rubio,"debate stage",0.539787,negative
+Rubio,"nuclear triad",0.539641,neutral
+Rubio,"America great.",0.539376,positive
+Rubio,"true views",0.538404,positive
+Rubio,"United States.",0.538261,neutral
+Rubio,"clothing makers",0.538036,positive
+Rubio,"United States",0.537808,neutral
+Rubio,"employment question.",0.53768,negative
+Rubio,"hot area.",0.537216,neutral
+Rubio,"Al Qaida",0.536991,negative
+Rubio,"liberal Democrats",0.536447,positive
+Rubio,"economy question.",0.536235,positive
+Rubio,nominee,0.536043,neutral
+Rubio,"radical group",0.535916,positive
+Rubio,"higher wages",0.53581,negative
+Rubio,"Republican nominee",0.535643,neutral
+Rubio,"Harry Reid",0.535437,positive
+Trump,trump,0.992286,negative
+Trump,u'TRUMP,0.843121,negative
+Trump,people,0.727076,negative
+Trump,"Hillary Clinton",0.664278,negative
+Trump,"Mr. Trump",0.663524,positive
+Trump,"Trump Steaks.",0.64937,positive
+Trump,"Donald Trump",0.644638,negative
+Trump,"United States",0.597885,negative
+Trump,"percent approval rating",0.559206,neutral
+Trump,"World Trade Center",0.558441,neutral
+Trump,"Better Business Bureau",0.556782,positive
+Trump,"national poll",0.552476,neutral
+Trump,"minor civil case.",0.551334,neutral
+Trump,"Palm Beach",0.549402,positive
+Trump,thing,0.545042,negative
+Trump,"highly skilled people",0.544519,positive
+Trump,way,0.541797,negative
+Trump,"Klu Klux Klan",0.540399,negative
+Trump,"great trade deals.",0.538626,positive
+Trump,"Common Core",0.538115,negative
+Trump,"recent Fox poll",0.536951,negative
+Trump,"little Marco.",0.536417,negative
+Trump,"long time.",0.536105,neutral
+Trump,"pharmaceutical companies",0.535875,neutral
+Trump,"Believe me.",0.534594,positive
+Trump,"West Palm Beach",0.533499,neutral
+Trump,"real con artist",0.532904,negative
+Trump,"primary supporter",0.532607,neutral
+Trump,"lead plaintiff",0.532586,negative
+Trump,"nuclear weapons",0.531766,negative
+Trump,"Republican Party",0.531695,negative
+Trump,"United States Senate.",0.53155,negative
+Trump,"John Roberts",0.531456,neutral
+Trump,"new CNN poll",0.531096,neutral
+Trump,"Senator Marco Rubio",0.531053,negative
+Trump,"toughest gun laws",0.530377,negative
+Trump,"worst voting record",0.529935,negative
+Trump,number,0.525597,neutral
+Trump,"Hillary Clinton.",0.525124,negative
+Trump,money,0.524855,negative
+Trump,country,0.523972,positive
+Trump,leader,0.523531,negative
+Trump,fact,0.522706,negative
+Trump,"David Duke",0.522023,positive
+Trump,Florida,0.521159,negative
+Trump,information,0.521096,negative
+Trump,"particular China",0.521003,neutral
+Trump,"bragging way",0.520785,neutral
+Cruz,cruz,0.973902,neutral
+Cruz,Donald,0.860171,positive
+Cruz,"Hillary Clinton",0.769394,negative
+Cruz,"Donald Trump",0.727488,negative
+Cruz,u'CRUZ,0.713683,negative
+Cruz,"Supreme Court justices",0.710594,neutral
+Cruz,"conservative Supreme Court",0.693337,neutral
+Cruz,"Harry Reid",0.651944,negative
+Cruz,"New York Times",0.611968,negative
+Cruz,"Jimmy Carter",0.586689,negative
+Cruz,"head Donald Trump",0.578867,negative
+Cruz,"American people",0.528143,negative
+Cruz,"Senator Cruz",0.52794,neutral
+Cruz,"simple flat tax",0.499918,negative
+Cruz,"Ronald Reagan",0.493251,negative
+Cruz,"American workers",0.491057,neutral
+Cruz,"John Kerry",0.487158,negative
+Cruz,"George W. Bush",0.482618,negative
+Cruz,"York Times tape",0.474669,negative
+Cruz,"United States government",0.472739,negative
+Cruz,"debate stage",0.469633,neutral
+Cruz,"Jimmy Carter administration",0.467996,negative
+Cruz,"Chuck Schumer sign",0.462909,neutral
+Cruz,"left-wing judicial activist",0.45866,negative
+Cruz,"South China Sea",0.457682,positive
+Cruz,"support Harry Reid",0.456996,neutral
+Cruz,"support John Kerry",0.455043,neutral
+Cruz,"CNN poll",0.453574,negative
+Cruz,"Senate majority leader.",0.453177,neutral
+Cruz,"support Jimmy Carter",0.452221,neutral
+Cruz,president,0.42519,negative
+Cruz,"Hillary Clinton.",0.418681,neutral
+Cruz,"Web site",0.409659,positive
+Cruz,"Barack Obama.",0.408178,negative
+Cruz,"Mr. Trump",0.407642,negative
+Cruz,"astonishing statement",0.406459,positive
+Cruz,"liberal Democrats",0.405331,negative
+Cruz,"actual record",0.402876,neutral
+Cruz,"comprehensive investigation",0.400797,neutral
+Cruz,"U.S. companies",0.400752,neutral
+Cruz,"troubling development",0.40041,negative
+Cruz,"foreign workers",0.39998,negative
+Cruz,"Editorial Board",0.399422,negative
+Cruz,"H1B program",0.399168,neutral
+Cruz,"American citizens",0.398898,negative
+Cruz,"high-paying jobs",0.398311,negative
+Cruz,"H1-B program",0.397868,negative
+Cruz,"H1-B abuse",0.397636,negative
+Cruz,"Nancy Pelosi",0.397633,negative
+Cruz,"Cold War.",0.396027,neutral
